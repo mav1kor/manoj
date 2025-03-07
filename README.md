@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and GenAI
 - 🌱 I’m currently learning Python, Bigdata analysis, AI, ML and GenAI 
 - 💞️ I’m looking to collaborate on AI projects. 
-- 📫 How to reach me manoj.jv@in.bosch.com  
+- 📫 How to reach me 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like to explore 
 
